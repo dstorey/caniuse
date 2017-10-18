@@ -20,8 +20,7 @@
   "bugs":[
     
   ],
-  "categories":[
-    "JS API"
+  "categories":    "JS API"
   ],
   "stats":{
     "ie":{
@@ -38,7 +37,7 @@
       "13":"u",
       "14":"a #2",
       "15":"a #2",
-      "16":"a #2"
+      "16":"y"
     },
     "firefox":{
       "2":"n",
